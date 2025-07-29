@@ -6,7 +6,7 @@
 
 ## Description
 
-CoFEBEM project is $\mathcal H$-matrix accelerated FEM/BEM-based contact solver
+CoFEBEM project aims at constructing a powerful and universal contact solver based on FEM/BEM and accelerated by $\mathcal H$-matrix algebra
 
 ## Features
 
